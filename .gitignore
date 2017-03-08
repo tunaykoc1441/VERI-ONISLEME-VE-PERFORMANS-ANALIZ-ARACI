@@ -16,6 +16,15 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#Hiding Data Files
+*.csv
+*.xls
+*.xlsx
 
 # produced vignettes
 vignettes/*.html
